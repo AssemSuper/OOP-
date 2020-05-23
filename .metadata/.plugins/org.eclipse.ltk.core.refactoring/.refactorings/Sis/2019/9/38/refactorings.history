@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;sis.LaunchOfDragon&apos; to &apos;DragonLaunch&apos;&#x0D;&#x0A;- Original project: &apos;Sis&apos;&#x0D;&#x0A;- Original element: &apos;sis.LaunchOfDragon&apos;&#x0D;&#x0A;- Renamed element: &apos;sis.DragonLaunch&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;LaunchOfDragon&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;sis{LaunchOfDragon.java[LaunchOfDragon" matchStrategy="1" name="DragonLaunch" qualified="false" references="true" similarDeclarations="false" stamp="1568786760776" textual="false" version="1.0"/>
+</session>

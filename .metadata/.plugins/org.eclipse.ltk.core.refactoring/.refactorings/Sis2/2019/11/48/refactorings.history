@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;preparationForEndterm.Singeleton.java&apos; to &apos;Singleton.java&apos;&#x0D;&#x0A;- Original project: &apos;Sis2&apos;&#x0D;&#x0A;- Original element: &apos;preparationForEndterm.Singeleton.java&apos;&#x0D;&#x0A;- Renamed element: &apos;preparationForEndterm.Singleton.java&apos;" description="Rename compilation unit &apos;Singeleton.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;preparationForEndterm{Singeleton.java" name="Singleton.java" references="false" stamp="1574870554987" version="1.0"/>
+</session>
